@@ -1,0 +1,23 @@
+.array-container{
+    margin-top: 50px;
+}
+.array-bar{
+    width: 50px;
+    display: inline-block;
+    background-color: white;
+    margin-right: 2px;
+}
+h1{
+    color: #007BFF;
+    padding-bottom: 30px;
+    font-weight: 800;
+}
+#sort{
+    margin-right: 25px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+#reset{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
